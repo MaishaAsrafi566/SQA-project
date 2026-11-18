@@ -9,3 +9,7 @@ node_modules/
 # Allure
 /allure-results/
 /allure-report/
+# API Reports
+/api-reports/
+/api-allure-results/
+/api-allure-report/
